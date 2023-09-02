@@ -11,7 +11,7 @@
 
 ```
 git clone hhttps://github.com/bolo821/portfolio.git
-cd developer-portfolio
+cd portfolio
 ```
 ### Install packages from the root directory
 ```
